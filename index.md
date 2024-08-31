@@ -1,5 +1,11 @@
 ## Welcome to GitHub Pages
 
+# Rohan's First CS193 Homework
+
+- I'm excited to learn how to use GitHub
+- I'm also excited to learn more about Linux and all the different commands
+- Arman is cool (so far)
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
